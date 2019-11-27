@@ -3,5 +3,6 @@ The custom code is written in R software.
 
 File descripion is as follows:
   
-  data: in .csv format. 
-  analysis.R: the R script that performs the estimation of model parameters for the two functional specifications (Kahneman-Tversky and Prelec-1). It also creates plots and tables with estimation results reported in the paper.
+data.csv: raw data in .csv format.
+  
+analysis.R: the R script that performs the estimation of model parameters for the two functional specifications (Kahneman-Tversky and       Prelec-1) and tests for significant differences in parameter estimates between the stimulation conditions. It also creates plots and tables with estimation results reported in the paper.
