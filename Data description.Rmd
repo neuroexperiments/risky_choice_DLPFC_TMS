@@ -1,0 +1,19 @@
+Data variables description:
+
+subject: subject's serial number in the data set
+subject_ID: subject's identification code in the experiment
+session: 0 - sham right DLPFC, 1 - right DLPFC, 2 - left DLPFC
+outcome1: upper outcome of the left lottery on the screen
+outcome2: lower outcome of the left lottery on the screen
+outcome3: upper outcome of the right lottery on the screen
+outcome4: lower outcome of the right lottery on the screen
+prob1: probability of the upper outcome
+prob2: probability of the lower outcome
+choice: 1 - subject chose left lottery, 2 - subject chose right lottery
+rt: response time
+Onsettime: onset time for the current trial
+gender: 0 - female subject, 1 - male subject
+session_order: serial number of the session within the subject
+
+
+
