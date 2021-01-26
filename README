@@ -1,8 +1,6 @@
-This repository contains raw data and a custom code used for the data analysis for the paper entitled "Causal role of the dorsolateral prefrontal cortex in reward value and reward probability during risky choice".
-The custom code is written in R software.
+This repository contains raw data for the paper entitled "Causal role of the dorsolateral prefrontal cortex in reward value and reward probability during risky choice".
 
 File descripion is as follows:
   
 data.csv: raw data in .csv format.
   
-analysis.R: the R script that performs the estimation of model parameters for the two functional specifications (Kahneman-Tversky and       Prelec-1) and tests for significant differences in parameter estimates between the stimulation conditions. It also creates plots and tables with estimation results reported in the paper.
