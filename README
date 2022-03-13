@@ -2,5 +2,14 @@ This repository contains raw data and custom code for the paper entitled "Dorsol
 
 File descripion is as follows:
   
-data.csv: raw data in .csv format.
+alldata.csv: raw data in .csv format
+scales.csv: raw dataset containing personality questionnaire answers of participants (Sensation Seeking, BIS/BAS) and self-reported discomfort during stimulation
+
+github_behavioral_analysis.R: custom R code performing regression analysis of the trial-by-trial data
+
+github_modelling.R: custom R code preparing dataset to be submitted to rstan for MCMC sampling
+
+github_stancode.stan: custom Stan code performing sampling for the main model
+
+
   
