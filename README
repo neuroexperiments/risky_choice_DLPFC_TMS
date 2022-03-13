@@ -11,5 +11,5 @@ github_modelling.R: custom R code preparing dataset to be submitted to rstan for
 
 github_stancode.stan: custom Stan code performing sampling for the main model
 
-
+github_fitted.R: custome R code allowing to diagnose convergence of the fitted model, calculate WAIC, perform posterior predictive checks, and calculate parameter CIs.
   
